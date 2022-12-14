@@ -1,2 +1,1 @@
-# EDA_AMG1608_Dataset
- 
+Exploratory Data Analysis for AMG1608 dataset
